@@ -15,4 +15,5 @@ webdriver-manager
 pillow
 pytesseract
 
-
+# install 
+openpyxl
