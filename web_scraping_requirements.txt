@@ -1,0 +1,18 @@
+# Web scraping
+requests
+beautifulsoup4
+lxml
+tqdm
+
+# Data handling
+pandas
+
+# Browser automation (fallback for dynamic content)
+selenium
+webdriver-manager
+
+# Optional OCR (if you want to detect barcodes in images later)
+pillow
+pytesseract
+
+
